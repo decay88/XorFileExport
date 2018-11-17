@@ -1,5 +1,5 @@
 # XorFileExport
-A simple encrypter that import a file and export crypted data and the randam generated XOR key as a C array.
+A simple encrypter that imports a file, exports encrypted data and add a random generated XOR key as array.
 
 Usage: XorFileExport.exe "File" "Keysize"
 
